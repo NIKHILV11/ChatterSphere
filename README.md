@@ -5,7 +5,6 @@ ChatterSphere is achat application designed to provide seamless communication an
 - Real-time messaging
 - Group chats
 - Message history
-- User profiles
 
 ## Tech Stack
 
